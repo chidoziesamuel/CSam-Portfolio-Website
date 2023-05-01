@@ -22,7 +22,7 @@ header {
 }
 
 header h4 {
-    font-size: smaller;
+    font-size: 24px;
 	margin: 0;
 }
 
@@ -31,9 +31,10 @@ h1{
     text-align: center;
 }
 nav ul {
-    font-size: smaller;
+    font-size: 12px;
+    text-align: center;
 	margin: 0;
-	padding: 0;
+	padding: 24;
 	list-style: none;
 	display: flex;
 }
