@@ -67,3 +67,34 @@ section {
 .home{
     color: grey;
 }
+
+#projects {
+	display: flex;
+	padding: 16px;
+	text-align: center;
+	flex-direction: space-evenly;
+	width: 100%;
+	background-color: black;
+	color: white;
+	border: 1px solid black;
+
+}
+
+.left {
+
+	font-size: 16px;
+	text-align: center;
+
+}
+.center {
+
+	font-size: 16px;
+	text-align: center;
+
+}
+.right {
+
+	font-size: 16px;
+	text-align: center;
+
+}
